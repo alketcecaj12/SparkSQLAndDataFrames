@@ -1,4 +1,6 @@
-### The “Introduction to Spark SQL and DataFrames” course offers a comprehensive guide to mastering data operations and analysis using Apache Spark. Here are the key takeaways:
+###  A comprehensive guide to mastering Spark SQL and DataFrames, data operations and analysis using Apache Spark. 
+
+#### Here are the key takeaways:
 
 - Understanding DataFrames: You'll learn how to perform common data operations like loading, filtering, and aggregating data in DataFrames, which are crucial for handling large datasets efficiently.
 
